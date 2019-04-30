@@ -9,8 +9,8 @@ Os jogadores ganham pontos de XP por quão bem eles jogam.
 
 ## Primeira vez jogando?
 
-Se for sua primeira vez jogando HideNSeek com XP Mod, você ganhou 1000 de XP!<br>
-Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos menus.
+Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
+Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
 
 ### Comandos
 ``` sourcepawn
@@ -19,23 +19,22 @@ Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos m
 ```
 ## Modos de jogo
 
-* ### Com blocos
+* ### Com Bloco
 
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
-lorem ipsum lorem ipsum lorem ipsum<br>
-* ### Sem blocos
+Mapas onde são criados "spots" que utilizam blocos com diversas finalidades. Ex: Ganhar arma; recuperar vida; escorregar.<br>
+* ### No Block
 
 Em todos os mapas com final `_noblock` Exemplo: `hns_devblocks_v4_noblock`<br>
-Seus UPGRADES serão desligados para não desbalancear o modo.<br>
-Você ganhara xp extra por sobreviver de TERRORISTA<br>
+Os UPGRADES são desativados para não desbalancear o modo.<br>
+Você ganhará xp extra por sobreviver de TERRORISTA<br>
 
 #### Todos os terroristas receberão:
 * 2 Flashbangs
 * 1 Frost Nade
 
-### O quê mais muda no Sem blocos?
+### O quê mais muda no No Block?
 
-|  | TR's | CT's |
+| | TR's | CT's |
 |:----------------|:----------------|:----------------|
 | 20% Redução no dano de queda | ✓ | ✓ |
 | Regeneração de vida | ✕ | ✓ |
@@ -45,19 +44,19 @@ Você ganhara xp extra por sobreviver de TERRORISTA<br>
 
 ## Como ganho XP?
 
-| Em Mapas | Com Bloco | Sem Bloco |
+| Em Mapas | Com Bloco | No Block |
 |:----------------|:----------------|:----------------|
-| Ações     | XP    | XP    |
-| Matar     | +65 XP | +45 XP |
+| Ações | XP | XP |
+| Matar | +65 XP | +45 XP |
 | Matar com `HE` | +20 XP | 0 XP |
-| Matar de `HS`    | +50 XP | 0 XP |
-| Suicídio      | -25 XP | -35 XP |
+| Matar de `HS` | +50 XP | 0 XP |
+| Suicídio | -25 XP | -35 XP |
 | Sobreviver de TR | +10 XP | +60 XP |
 | Ganhar o Round | +15 XP | +50 XP |
 | Jogar no servidor | +5 XP | +10 XP |
 
 Com esses pontos de XP, você pode comprar upgrades. <br>
-Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
+Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 * * *
 
@@ -67,7 +66,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 > A habilidade `Granadas` contém HE Grenade, 2 Flashbangs e uma Frost Nade.<br>
 > Estas são as `Granadas` que você receberá no começo de cada round.
 
-|  | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
+| | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
 |:-------------|:-------------|:------------------|:-------------|:------------------|
 | Intervalos de chance | 12.5% | 25% | 25% | 25% |
 | Nível máximo | 8 | 4 | 4 | 4 |
@@ -75,7 +74,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Menu de Vida Extra
 
-> A habilidade de `Vida Extra` é a quantidade de `Vida` que será adicionada no começo de cada round.
+> A habilidade de `Vida Extra` é a quantidade de `Vida` a mais que você receberá em cada round.
 
 | Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -85,7 +84,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Menu de Colete Extra
 
-> A habilidade de `Colete Extra` é a quantidade de `Colete` que é dada a você no começo de cada round.
+> A habilidade de `Colete Extra` é a quantidade de `Colete` a mais que você receberá.
 
 | Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -96,15 +95,17 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 ### Por que comprar colete?
 > Colete é um item importantíssimo para os `CT's`, como os terroristas podem comprar HE.
 
-## Menu Chance de Renascer
+## Menu de Respawn
 
-> A habilidade `Renascer` é uma chance de ser revivido quando você morrer.
+> A habilidade `Respawn` é chance de reviver após morrer.
 
 | Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de chance | 15% | 25% |
 | Nível máximo | 3 | 4 |
 | Chance máxima | 45% | 100% |
+
+> Digite !reviveme viver (dependendo da porcentagem que tiver adquirido).
 
 ## Menu de Dano de queda
 
