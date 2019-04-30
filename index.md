@@ -38,7 +38,7 @@ Os terroristas receberão:
 | Regeneração de vida | ✕ | ✓ |
 | Imune a facadas por 3 segundos | ✓ | ✕ |
 
-###### Como jogo no noblock?
+##### Como jogo no noblock?
 Você precisa votar em um mapa que termine com sufixo `noblock`, por exemplo: hns_devblocks_v4`_noblock`<br>
 
 * * *
