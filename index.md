@@ -20,25 +20,26 @@ Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos 
 ## Modos de jogo
 
 * ### Com Bloco
-
 Mapas onde são criados "spots" que utilizam blocos com diversas finalidades. Ex: Ganhar arma; recuperar vida; escorregar.<br>
+
 * ### No Block
+O `noblock` é basicamente o HideNSeek clássico ou CHASEMOD.<br>
+Nesse modo todos os UPGRADES são desativados para não desbalancear o jogo.<br>
 
-Em todos os mapas com final `_noblock` Exemplo: `hns_devblocks_v4_noblock`<br>
-Os UPGRADES são desativados para não desbalancear o modo.<br>
-Você ganhará xp extra por sobreviver de TERRORISTA<br>
+Os terroristas receberão:
+* 2 Flashbangs com (100% de chance)
+* 1 Frost Nade com (100% de chance)
 
-#### Todos os terroristas receberão:
-* 2 Flashbangs
-* 1 Frost Nade
+### O quê muda no No Block?
 
-### O quê mais muda no No Block?
-
-| | TR's | CT's |
+| Habilidades disponíveis | TR's | CT's |
 |:----------------|:----------------|:----------------|
 | 20% Redução no dano de queda | ✓ | ✓ |
 | Regeneração de vida | ✕ | ✓ |
 | Imune a facadas por 3 segundos | ✓ | ✕ |
+
+###### Como jogo no noblock?
+Você precisa votar em um mapa que termine com sufixo `noblock`, por exemplo: hns_devblocks_v4`_noblock`<br>
 
 * * *
 
@@ -59,6 +60,14 @@ Com esses pontos de XP, você pode comprar upgrades. <br>
 Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 * * *
+
+## Menus
+[VIP's](#donate)*<br>
+[Granadas](#menu-de-granadas)*<br>
+[Vida Extra](#menu-de-vida-extra)*<br>
+[Colete Extra](#menu-de-colete-extra)*<br>
+[Respawn](#menu-de-respawn)*<br>
+[Dano de queda](#menu-de-dano-de-queda)*<br>
 
 ## Menu de Granadas
 
