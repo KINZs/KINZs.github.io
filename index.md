@@ -133,7 +133,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 ``` sourcepawn
 + Adicionar
 - Remover
-* Modificar
+* Consertar
 
 + Site para vender VIP por skins de CS:GO.
 
@@ -155,6 +155,16 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ##### Updates recentes
 ``` sourcepawn 
+UPDATE > 1.7.5: 
+* Consertei um bug, Que estava mostrando a porcentagem do proximo nível!
+
+Passando de:
+HE Grenade: Nível 7/8 (100%) [25600 XP]
+Para:
+HE Grenade: Nível 7/8 (87%) [25600 XP]
+
+-----------------------------------------------------------------
+
 UPDATE > 1.7.4: 
 + Player Skins (models) para os jogadores
 + Rastros (trais) para os jogadores
