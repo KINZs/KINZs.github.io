@@ -156,7 +156,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 ##### Updates recentes
 ``` sourcepawn 
 UPDATE > 1.7.5: 
-* Consertei um bug, Que estava mostrando a porcentagem do proximo nível!
+BUG FIX: consertei um bug que estava mostrando a porcentagem do proximo nível, Exemplo:
 
 Passando de:
 HE Grenade: Nível 7/8 (100%) [25600 XP]
