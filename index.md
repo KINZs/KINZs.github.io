@@ -63,13 +63,13 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Menus
 [VIP's](#donate)*<br>
-[Granadas](#menu-de-granadas)*<br>
-[Vida Extra](#menu-de-vida-extra)*<br>
-[Colete Extra](#menu-de-colete-extra)*<br>
-[Respawn](#menu-de-respawn)*<br>
-[Dano de queda](#menu-de-dano-de-queda)*<br>
+[Granadas](#granadas)*<br>
+[Vida Extra](#vida-extra)*<br>
+[Colete Extra](#colete-extra)*<br>
+[Respawn](#respawn)*<br>
+[Dano de queda](#dano-de-queda)*<br>
 
-## Menu de Granadas
+## Granadas
 
 > A habilidade `Granadas` no XP Mod é apenas para terroristas.<br>
 > A habilidade `Granadas` contém HE Grenade, 2 Flashbangs e uma Frost Nade.<br>
@@ -81,7 +81,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 | Nível máximo | 8 | 4 | 4 | 4 |
 | Chance máxima | 100% | 100% | 100% | 100% |
 
-## Menu de Vida Extra
+## Vida Extra
 
 > A habilidade de `Vida Extra` é a quantidade de `Vida` a mais que você receberá em cada round.
 
@@ -91,11 +91,11 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 | Nível máximo | 10 | 5 |
 | Vida máxima | 200 HP | 150 HP |
 
-## Menu de Colete Extra
+## Colete Extra
 
 > A habilidade de `Colete Extra` é a quantidade de `Colete` a mais que você receberá.
 
-| Time | Terrorista | CT's |
+| Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de colete | 25 AP | 25 AP |
 | Nível máximo | 8 | 6 |
@@ -104,11 +104,11 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 ### Por que comprar colete?
 > Colete é um item importantíssimo para os `CT's`, como os terroristas podem comprar HE.
 
-## Menu de Respawn
+## Respawn
 
 > A habilidade `Respawn` é chance de reviver após morrer.
 
-| Time | Terrorista | CT's |
+| Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de chance | 15% | 25% |
 | Nível máximo | 3 | 4 |
@@ -116,11 +116,11 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 > Digite !reviveme viver (dependendo da porcentagem que tiver adquirido).
 
-## Menu de Dano de queda
+## Dano de queda
 
 > A habilidade de `dano de queda` reduz a quantidade de dano causado pela queda.
 
-| Time | Terrorista | CT's |
+| Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de redução | 10% | 10% |
 | Nível máximo | 8 | 8 |
