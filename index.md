@@ -71,8 +71,8 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Granadas
 
-> A habilidade `Granadas` no XP Mod é apenas para terroristas.<br>
-> A habilidade `Granadas` contém HE Grenade, 2 Flashbangs e uma Frost Nade.<br>
+> A habilidade das Granadas no XP Mod é apenas para terroristas.<br>
+> A habilidade das Granadas contém HE Grenade, 2 Flashbangs e Frost Nade.<br>
 > Estas são as `Granadas` que você receberá no começo de cada round.
 
 | | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
@@ -85,7 +85,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 > A habilidade de `Vida Extra` é a quantidade de `Vida` a mais que você receberá em cada round.
 
-| Time | Terrorista | CT's |
+| Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de vida | 10 HP | 10 HP |
 | Nível máximo | 10 | 5 |
@@ -102,11 +102,11 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 | Colete máximo | 200 AP | 150 AP |
 
 ### Por que comprar colete?
-> Colete é um item importantíssimo para os `CT's`, como os terroristas podem comprar HE.
+> Colete é um item importantíssimo para os `CT's`, lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
 ## Respawn
 
-> A habilidade `Respawn` é chance de reviver após morrer.
+> A habilidade de `Respawn` é chance de reviver após morrer.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
