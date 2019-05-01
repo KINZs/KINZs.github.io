@@ -71,8 +71,8 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Granadas
 
-> A habilidade das Granadas no XP Mod é apenas para terroristas.<br>
-> A habilidade das Granadas contém HE Grenade, 2 Flashbangs e Frost Nade.<br>
+> A habilidade Granadas no XP Mod é apenas para terroristas.<br>
+> A habilidade Granadas contém HE Grenade, 2 Flashbangs e Frost Nade.<br>
 > Estas são as `Granadas` que você receberá no começo de cada round.
 
 | | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
@@ -83,7 +83,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Vida Extra
 
-> A habilidade de `Vida Extra` é a quantidade de `Vida` a mais que você receberá em cada round.
+> A habilidade `Vida Extra` é a quantidade de `Vida` a mais que você receberá em cada round.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -93,7 +93,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Colete Extra
 
-> A habilidade de `Colete Extra` é a quantidade de `Colete` a mais que você receberá.
+> A habilidade `Colete Extra` é a quantidade de `Colete` a mais que você receberá.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -106,7 +106,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Respawn
 
-> A habilidade de `Respawn` é chance de reviver após morrer.
+> A habilidade `Respawn` é chance de reviver após morrer.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -116,7 +116,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Dano de queda
 
-> A habilidade de `dano de queda` reduz a quantidade de dano causado pela queda.
+> A habilidade `Dano de queda` reduz a quantidade de dano causado pela queda.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
