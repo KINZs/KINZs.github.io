@@ -183,3 +183,5 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 + Player Skins (models) para os jogadores
 + Rastros (trais) para os jogadores
 ```
+
+### [Todos Updates](https://kinzs.github.io/updates)<br>
