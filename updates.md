@@ -1,6 +1,7 @@
 ---
 layout: updates
 description: 1.7.5
+title: Update
 ---
 
 # 1.7.5
