@@ -1,6 +1,7 @@
 ---
 layout: updates
 title: KINZ XP Update | 1.7.5
+description: 1.7.5
 ---
 
 # 1.7.5
