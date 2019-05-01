@@ -2,13 +2,7 @@
 layout: updates
 ---
 
-``` sourcepawn
-+ Adicionado
-- Removido
-* Modificado
-```
-
-### 1.7.5
+# 1.7.5
 ``` sourcepawn 
 BUG FIX: consertei um bug que estava mostrando a porcentagem do proximo nível, Exemplo:
 
@@ -26,7 +20,7 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 `Menu de Dano de queda` > `Dano de queda`
 ```
 
-### 1.7.4
+# 1.7.4
 ``` sourcepawn 
 + Player Skins (models) para os jogadores
 + Rastros (trais) para os jogadores
