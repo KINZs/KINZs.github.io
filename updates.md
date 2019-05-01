@@ -3,12 +3,16 @@ layout: updates
 title: UPDATES
 ---
 
+
+### [Página inicial](https://kinzs.github.io/)<br>
+
+
 ``` sourcepawn 
 + Adicionado
 - Removido
 * Modificado
 ```
-### [Página inicial](https://kinzs.github.io/)<br>
+<br><br>
 
 
 # 1.7.5
