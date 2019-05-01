@@ -1,5 +1,6 @@
 ---
 layout: updates
+title: Update
 ---
 
 # 1.7.5
