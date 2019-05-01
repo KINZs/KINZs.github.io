@@ -1,7 +1,7 @@
 ---
 layout: updates
-description: Último update > 1.7.5 | 01/05/2019
-title: KINZ XPMod - UPDATES
+description: [página inicial](KINZs.github.io)
+title: UPDATES
 ---
 
 # 1.7.5
