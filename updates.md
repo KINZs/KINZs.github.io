@@ -7,22 +7,17 @@ title: UPDATES
 ### [Página inicial](https://kinzs.github.io/)<br>
 
 
-``` sourcepawn 
-+ Adicionado
-- Removido
-* Modificado
-```
-
 # 1.7.5
 ``` sourcepawn 
-BUG FIX: consertei um bug que estava mostrando a porcentagem do proximo nível, Exemplo:
+Bug fixes:
+Menu mostrando a porcentagem do proximo nível, Exemplo:
 
 Passando de:
 HE Grenade: Nível 7/8 (100%) [25600 XP]
 Para:
 HE Grenade: Nível 7/8 (87%) [25600 XP]
 
-* Nome dos menus 
+Mudança no nome dos menus
 `Menu VIP` > `VIP's` 
 `Menu de Granadas` > `Granadas`
 `Menu de Vida Extra` > `Vida extra`
@@ -33,6 +28,6 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 
 # 1.7.4
 ``` sourcepawn 
-+ Player Skins (models) para os jogadores
-+ Rastros (trais) para os jogadores
+Add Skins (models) para os jogadores
+Add Rastros (trais) para os jogadores
 ```
