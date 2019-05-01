@@ -3,7 +3,14 @@ layout: updates
 title: UPDATES
 ---
 
+``` sourcepawn 
++ Adicionado
+- Removido
+* Modificado
+```
 ### [Página inicial](https://kinzs.github.io/)<br>
+
+
 # 1.7.5
 ``` sourcepawn 
 BUG FIX: consertei um bug que estava mostrando a porcentagem do proximo nível, Exemplo:
