@@ -1,6 +1,7 @@
 ---
 layout: updates
-title: UPDATES
+title: CHANGE LOG
+description: Aqui mostro o que está acontecendo com o XPMod ultimamente
 ---
 
 
