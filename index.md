@@ -114,8 +114,6 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 | Nível máximo | 3 | 4 |
 | Chance máxima | 45% | 100% |
 
-> Digite !reviveme viver (dependendo da porcentagem que tiver adquirido).
-
 ## Dano de queda
 
 > A habilidade de `dano de queda` reduz a quantidade de dano causado pela queda.
