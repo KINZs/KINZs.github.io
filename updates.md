@@ -12,8 +12,6 @@ title: UPDATES
 - Removido
 * Modificado
 ```
-<br><br>
-
 
 # 1.7.5
 ``` sourcepawn 
