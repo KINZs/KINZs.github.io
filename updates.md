@@ -1,6 +1,6 @@
 ---
 layout: updates
-description: 1.7.5
+description: Último update > 1.7.5 | 01/05/2019
 title: Update
 ---
 
