@@ -1,5 +1,5 @@
 ---
-layout: update
+layout: updates
 ---
 
 ``` sourcepawn
