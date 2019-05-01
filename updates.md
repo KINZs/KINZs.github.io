@@ -1,6 +1,5 @@
 ---
 layout: updates
-description: [página inicial](KINZs.github.io)
 title: UPDATES
 ---
 
