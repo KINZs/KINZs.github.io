@@ -151,12 +151,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 * Como estou salvando o xp
 ```
 
-##### Updates recentes:
-``` sourcepawn
-+ Adicionado
-- Removido
-* Modificado
-```
+#### CHANGE LOG:
 
 ### 1.7.5
 ``` sourcepawn 
