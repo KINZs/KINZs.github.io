@@ -2,15 +2,19 @@
 layout: default
 ---
 
+# Primeira vez jogando?
+
+Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
+Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
+
 ## O quê é XP Mod?
 
 XP Mod é um complemento para o HideNSeek.<br>
 Os jogadores ganham pontos de XP por quão bem eles jogam.
 
-# Primeira vez jogando?
+## O Quê posso ou não fazer?
 
-Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
-Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
+[Regras](#regras)*<br>
 
 ### Comandos
 ``` sourcepawn
@@ -123,6 +127,21 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 | Intervalos de redução | 10% | 10% |
 | Nível máximo | 8 | 8 |
 | Redução máxima | 80% | 80% |
+
+* * *
+
+# Regras
+Pode fazer tudo nesse servidor, EXCETO:
+
+* ### Com Bloco
+- CT fazer spot onde não há TR (FunJump)
+- Falar onde o adversário estar
+- Ficar dentro de um teleporte para travar outro jogador de propósito
+
+* ### No Block
+- Falar onde o adversário estar
+- Ficar camperando de TR.
+- Ficar FJ (FunJump) de CT.
 
 #### Donate
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
