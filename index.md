@@ -130,42 +130,18 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 # Regras
 Pode fazer tudo nesse servidor, EXCETO:
 
-* ### Com Bloco
+### Com Bloco
 - CT fazer spot onde não há TR (FunJump)
-- Falar onde o adversário estar
+- Falar onde o adversário esta
 - Ficar dentro de um teleporte para travar outro jogador de propósito
 
-* ### No Block
-- Falar onde o adversário estar
+### No Block
+- Falar onde o adversário esta
 - Ficar camperando de TR.
 - Ficar FJ (FunJump) de CT.
 
 #### Donate
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
-
-#### TO-DO
-``` sourcepawn
-+ Adicionar
-- Remover
-* Modificar
-
-+ Site para vender VIP por skins de CS:GO.
-
-+ Fazer !rank e um !top10 para recompensar os melhores jogadores com XP EXTRA!
-+ Fazer com que players que não possuam vip possam comprar `Skins e Rastros` com XP
-
-+ new g_xptotal[ MAXPLAYERS + 1 ]; (TOP 10)
-+ new g_pFirstPlayed[ MAXPLAYERS + 1 ]; (site)
-+ new g_pLastSeen[ MAXPLAYERS + 1 ]; (site)
-+ new g_pTotalTimePlayed[ MAXPLAYERS + 1 ]; (site)
-
-:TALVEZ:
-+ Menu de Habilidade
-+ Anti-Flash ( % por flash tacada )
-+ Dano Extra
-
-* Como estou salvando o xp
-```
 
 #### CHANGE LOG:
 
@@ -194,3 +170,28 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 ```
 
 ### [Todos Updates](https://kinzs.github.io/updates)<br>
+
+* * * 
+#### TO-DO
+``` sourcepawn
++ Adicionar
+- Remover
+* Modificar
+
++ Site para vender VIP por skins de CS:GO.
+
++ Fazer !rank e um !top10 para recompensar os melhores jogadores com XP EXTRA!
++ Fazer com que players que não possuam vip possam comprar `Skins e Rastros` com XP
+
++ new g_xptotal[ MAXPLAYERS + 1 ]; (TOP 10)
++ new g_pFirstPlayed[ MAXPLAYERS + 1 ]; (site)
++ new g_pLastSeen[ MAXPLAYERS + 1 ]; (site)
++ new g_pTotalTimePlayed[ MAXPLAYERS + 1 ]; (site)
+
+:TALVEZ:
++ Menu de Habilidade
++ Anti-Flash ( % por flash tacada )
++ Dano Extra
+
+* Como estou salvando o xp
+```
