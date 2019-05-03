@@ -1,25 +1,21 @@
 ---
 layout: default
 ---
+## O quê é XP Mod?
+
+XP Mod é um complemento para o HideNSeek.<br>
+Os jogadores ganham pontos de XP por quão bem eles jogam.
 
 # Primeira vez jogando?
 
 Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
 Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
 
-## O quê é XP Mod?
-
-XP Mod é um complemento para o HideNSeek.<br>
-Os jogadores ganham pontos de XP por quão bem eles jogam.
-
-## O Quê posso ou não fazer?
-
-[Regras](#regras)*<br>
-
 ### Comandos
 ``` sourcepawn
-!xp, !cm, !mm, !store Abre o menu principal do XP Mod
+[!xp](#Menus), [!cm](#Menus), [!mm](#Menus), [!store](#Menus) Abre o menu principal do XP Mod
 !hide Esconde / Mostra o rastro dos jogadores
+[!regras](#Regras)
 ```
 ## Modos de jogo
 
