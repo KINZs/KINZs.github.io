@@ -178,6 +178,8 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 - Remover
 * Modificar
 
+Arrumar o bug das granadas!
+
 + Site para vender VIP por skins de CS:GO.
 
 + Fazer !rank e um !top10 para recompensar os melhores jogadores com XP EXTRA!
