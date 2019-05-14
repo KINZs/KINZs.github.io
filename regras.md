@@ -1,3 +1,7 @@
+### Regras
+
+## Com Blocks
+
 Understabing
 Você não deve pular sob um T que está em cima de um bloco e faca.
 
@@ -49,3 +53,38 @@ Você não deve implorar no servidor!
 
 camping
 Você só pode acampar em um salto por no máximo 45 segundos.
+
+## NoBlock
+
+Funjumping
+O CT deve sempre perseguir os T's, você não pode pular e brincar!
+
+Understabing
+Não se deve pular para cima de um bloco * um não alcança e faca alguém, ele é chamado de "understab", mas é permitido em escadas e quando alguém pula alguém.
+
+durante Camping
+Não se deve correr sob um T e esperar que o T caia.
+
+Bloqueio de corpo
+T não deve ficar em um telhado, uma parede ou um bloco * e bloquear CT's com o corpo.
+
+Nadeblocking
+Nenhum nadeblocking no ar, nadeblocking no chão é permitido.
+
+camping
+Você só pode acampar por no máximo 25 segundos.
+
+Abusando de bugs
+É proibido abusar de bugs em um mapa! Você deve ser capaz de chegar a cada lugar apenas pulando.
+
+ghosting
+Não se deve dizer onde mais alguém está no mapa.
+
+correndo
+Tente não correr / fugir dos jogadores, noblock é sobre pessoas "juka".
+
+Reconectando (para mudar de equipe) - WTJ
+Não se deve desconectar do servidor para tentar entrar em outra equipe. (Geralmente CT para T)
+
+
+* Bloquear conta uma plataforma ou ocultar. qual deles pode pular e ficar em pé.
