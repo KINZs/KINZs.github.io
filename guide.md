@@ -1,131 +1,45 @@
-Den stora HNS Guiden!
-Hidenseek går ut på att CT ska jaga T med kniv. T kan inte använda kniv men får vapen genom att nå upp till vissa blocks. Man får endast 1 skott per vapen och man kan bara ta vapnet från ett block en gång per runda.
+O Grande Guia HNS! Hidenseek afirma que a CT deve perseguir T com faca. Não posso usar uma faca, mas obtenho armas ao alcançar certos blocos. Você só recebe 1 tiro por arma e você só pode pegar a arma de um bloco uma vez por rodada.
 
- 
+Abaixo estão informações detalhadas sobre o que cada bloco faz.
 
-Nedanför följer detaljerad information vad varje block gör.
+O Bloco de Bhop desaparece imediatamente quando você pula nele e reinicia após 1 segundo.
 
-Bhop 
-Blocket försvinner direkt när du hoppar på det och återställs efter 1 sekund. 
- 
+Bhop atrasado O bloco desaparece após 1 segundo e, em seguida, é redefinido após um segundo.
 
- 
+Armas Você recebe uma arma com 1 tiro. O bloqueio só pode ser usado uma vez por rodada por jogador.
 
-Bhop delayed
-Blocket försvinner efter 1 sekund och återsälls sedan efter en sekund.
- 
+Morte Você morre assim que toca neste bloco. Exceções são se você foi para o bloco Invincible antes.
 
- 
+Dano Você está ferido ao tocar neste bloco. Exceções são se você foi para o bloco Invincible antes.
 
-Vapen 
-Du får ett vapen med 1 skott i. Blocket kan endast användas 1 gång per runda per spelare.
- 
+Cura Você fica saudável tocando este bloco.
 
- 
+Nofalldamage Você não recebe nenhum dano quando aterrissa neste bloco, mesmo que você pule de grandes altitudes.
 
-Death 
-Du dör så fort du nuddar detta block. Undantag är om du har gått på Invincible blocket innan.
- 
+Gelo Você desliza neste bloco, dificultando o controle do movimento.
 
- 
+Mel Este bloco é como um adesivo e torna-se difícil de se mover.
 
-Damage 
-Du tar skada genom att nudda detta block. Undantag är om du har gått på Invincible blocket innan.
- 
+Trampolim Você voa no ar assim que toca neste bloco. Ao pular nele, você alcança maior altitude.
 
- 
+Speedboost Você é empurrado para frente pelo chão. Ao amarrar o pergaminho ao pato, você pode estender a distância consideravelmente.
 
-Heal 
-Du får health genom att nudda detta block.
- 
+Invincible Você será imortal por 15 segundos. Um jogador que tenha ido neste bloco piscará em azul até que o jogador não seja mais imortal.
 
- 
+Stealth Você se torna invisível por 15 segundos.
 
-Nofalldamage
-Du tar ingen skada när du landar på detta block även om du hoppar ner från höga höjder.
- 
+Speedforce Você se move mais rápido por 15 segundos. Pode ser difícil pular enquanto você tem esse efeito.
 
- 
+Gravidade Você pula mais alto quando pula desse bloco. Você se move mais lentamente no ar do que o normal, o que significa que eles levam mais tempo para pousar novamente.
 
-Ice 
-Du glider på detta block vilket gör de svårt att kontrollera movement.
- 
+Anticongelante Você recebe 100 kevlar e não pode ser congelado por 25 segundos.
 
- 
+Camuflagem Parece que você está no segundo time por 15 segundos.
 
-Honey
-Detta block är som ett klister och det blir svårt att röra sig.
- 
+Água Você se move como na água quando está neste bloco. Continue esperando ficar sobre a superfície.
 
- 
+LuckyPoints Você recebe 5 lp deste bloco. Se você é um membro do nosso grupo de vapor, você receberá 10 lp. Você é um membro do grupo de vapor e no site você ganha 15 lp!
 
-Trampoline 
-Du flyger upp i luften så fort du nuddar detta block. Genom att hoppa på det når du högre höjd.
- 
+Dinheiro Você ganha 5 $ deste bloco. Se você é um membro do nosso grupo de vapor, você receberá 10 $. Você é um membro do grupo de vapor e no site você recebe $ 15!
 
- 
-
-Speedboost
-Du skjuts frammåt längs med marken. Genom att binda scrollen till duck kan du förlänga sträckan avsevärt.
- 
-
- 
-
-Invincible
-Du blir odödlig i 15 sekunder. En spelare som har gått på detta block blinkar blått tills spelaren inte längre är odödlig.
- 
-
- 
-
-Stealth
-Du blir osynlig i 15 sekunder. 
- 
-
- 
-
-Speedforce
-Du rör dig snabbare i 15 sekunder. Det kan vara svårt att hoppa under tiden man har denna effekt.
- 
-
- 
-
-Gravity
-Du hoppar högre när du hoppar från detta block. Du rör dig saktare i luften än normalt vilket gör att de tar längre tid att landa igen.
- 
-
- 
-
-Anti-freeze
-Du får 100 kevlar och kan inte bli fryst under 25 sekunder. 
- 
-
- 
-
-Camouflage
-Det ser ut som du är med i andra laget i 15 sekunder.
- 
-
- 
-
-Water
-Du rör dig som i vatten när du är i detta block. Håll inne hopp för att hålla dig över ytan.
- 
-
- 
-
-LuckyPoints
-Du får 5 lp av detta block. Är du medlem i våran steam grupp får du istället 10 lp. Är du medlem i både steam gruppen och på hemsidan får du 15 lp!
- 
-
- 
-
-Money
-Du får 5$ av detta block. Är du medlem i våran steamgrupp får du istället 10$. Är du medlem i både steam gruppen och på hemsidan får du 15$!
- 
-
- 
-
- 
-
-Genom att skriva !mm så kommer du in på Moneymod. Där kan du köpa upgrades, skicka över pengar och luckypoints till andra spelare, öppna lådor och mycket annat.
-
+Digitando !xp você entrará no XPMOd. Lá você pode comprar upgrades//, enviar dinheiro e sorteios para outros jogadores, abrir caixas e muito mais.
