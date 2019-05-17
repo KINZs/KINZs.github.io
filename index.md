@@ -4,7 +4,7 @@ layout: default
 ## O quê é XP Mod?
 
 XP Mod é um complemento para o HideNSeek.<br>
-Os jogadores ganham pontos de XP por quão bem eles jogam.<br><br>
+Os jogadores ganham pontos de XP por quão bem eles jogam.<br>
 
 ## Primeira vez jogando?
 
