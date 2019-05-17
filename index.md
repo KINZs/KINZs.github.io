@@ -6,12 +6,11 @@ layout: default
 XP Mod é um complemento para o HideNSeek.<br>
 Os jogadores ganham pontos de XP por quão bem eles jogam.<br><br>
 
-[Veja as regras](#regras)
-
 ## Primeira vez jogando?
 
 Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
 Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
+[Veja as regras](#regras)
 
 ### Comandos
 ``` sourcepawn
@@ -118,6 +117,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 ## Dano de queda
 
 > A habilidade `Dano de queda` reduz a quantidade de dano causado pela queda.
+> A Porcentagem do seu nivel é quantos porcento seu dano será reduzido quando você tomar dano causado pela queda.
 
 | Para | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
@@ -144,6 +144,20 @@ Pode fazer tudo nesse servidor, EXCETO:
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
 
 #### CHANGE LOG:
+
+### UPDATE NO JUMPSTATS v1.0.5
+``` sourcepawn 
+Consertei alguns bugs.
+Adicionei um block para a bind +klook
+Adicionei um detector para a null bind ainda está em beta (ainda não tera penalidade).
+
+Adicionei o Failstats no LJ Block
+
+Adicionei a direção do pulo (bw) costas, (sw) lado.
+
+Adicionei nos LONGJUMPS o pulo perfect em azul
+
+```
 
 ### 1.7.5
 ``` sourcepawn 
