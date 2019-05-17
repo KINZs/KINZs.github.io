@@ -9,7 +9,7 @@ Os jogadores ganham pontos de XP por quão bem eles jogam.<br><br>
 ## Primeira vez jogando?
 
 Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
-Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.
+Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.<br>
 [Veja as regras](#regras)
 
 ### Comandos
