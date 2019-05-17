@@ -9,7 +9,7 @@ Os jogadores ganham pontos de XP por quão bem eles jogam.<br>
 ## Primeira vez jogando?
 
 Ao jogar pela primeira vez, você recebe 1000 de XP!<br>
-Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.<br>
+Você ganha XP baseado na sua jogabilidade, e poderá comprar mais upgrades nos menus.<br><br>
 [Veja as regras](#regras)
 
 ### Comandos
@@ -145,7 +145,7 @@ Pode fazer tudo nesse servidor, EXCETO:
 
 #### CHANGE LOG:
 
-### UPDATE NO JUMPSTATS v1.0.5
+### UPDATES NO JUMPSTATS v1.0.5
 ``` sourcepawn 
 Consertei alguns bugs.
 Adicionei um block para a bind +klook
@@ -159,7 +159,7 @@ Adicionei nos LONGJUMPS o pulo perfect em azul
 
 ```
 
-### 1.7.5
+### UPDATES NO XPMOD v1.7.5
 ``` sourcepawn 
 BUG FIX: consertei um bug que estava mostrando a porcentagem do proximo nível, Exemplo:
 
@@ -177,7 +177,7 @@ HE Grenade: Nível 7/8 (87%) [25600 XP]
 `Menu de Dano de queda` > `Dano de queda`
 ```
 
-### 1.7.4
+### UPDATES NO XPMOD v1.7.4
 ``` sourcepawn 
 + Player Skins (models) para os jogadores
 + Rastros (trais) para os jogadores
