@@ -148,14 +148,20 @@ Pode fazer tudo nesse servidor, EXCETO:
 ### UPDATES NO JUMPSTATS v1.0.5
 ``` sourcepawn 
 Consertei alguns bugs.
-Adicionei um block para a bind +klook
-Adicionei um detector para a null bind ainda está em beta (ainda não tera penalidade).
-
+Adicionei o Anti-Cheat do KZTimer
 Adicionei o Failstats no LJ Block
-
 Adicionei a direção do pulo (bw) costas, (sw) lado.
+Adicionei um menu !cfg onde o player pode escolher o que quer ver no jumpstats (veja abaixo).
 
-Adicionei nos LONGJUMPS o pulo perfect em azul
+Configurações do JumpStats
+Painel Central - Ativar / Desativar
+sons Quake - Nenhum / Todos / somente pulos GodLike e Ownage / Nenhum (Exceto o seu)
+Cor do Chat (jumpstats) - Nenhum / Todos / Pulos vermelhos & dourados / Nenhum (exceto o seu)
+Enviar strafe sync para o chat - Ativar / Desativar
+Painel Central Avançado (lj info) - Ativar / Desativar
+Rastro do pulo - Ativar / Desativar
+
+SONS DO QUAKE estão PREDEFINIDOS como "Nenhum (Exceto o seu)"
 
 ```
 
