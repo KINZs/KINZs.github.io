@@ -145,7 +145,7 @@ Pode fazer tudo nesse servidor, EXCETO:
 
 #### CHANGE LOG:
 
-### UPDATES NO JUMPSTATS v1.0.5
+### UPDATES NO JUMPSTATS v1.7.0
 ``` sourcepawn 
 Consertei alguns bugs.
 Adicionei o Anti-Cheat do KZTimer
