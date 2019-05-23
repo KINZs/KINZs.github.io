@@ -128,9 +128,7 @@ Para obter a lista desses upgrades, digite !xp e visualize os outros menus.
 * * *
 
 # Regras
-Pode fazer tudo nesse servidor, EXCETO:
-
-### Com Bloco
+### Com Bloco   
 - CT fazer spot onde não há TR (FunJump)
 - Falar onde o adversário esta
 - Ficar dentro de um teleporte para travar outro jogador de propósito
@@ -163,6 +161,7 @@ Rastro do pulo - Ativar / Desativar
 
 SONS DO QUAKE estão PREDEFINIDOS como "Nenhum (Exceto o seu)"
 
+O Anti-cheat banira automaticamente e permanentemente!
 ```
 
 ### UPDATES NO XPMOD v1.7.5
