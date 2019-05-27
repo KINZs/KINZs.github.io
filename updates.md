@@ -4,12 +4,12 @@ title: CHANGE LOG
 description: Aqui mostro o que está acontecendo com o XPMod ultimamente
 ---
 
-
 ### [Página inicial](https://kinzs.github.io/)<br>
 
-### UPDATE Anti-Cheat
+### UPDATE Anti-Cheat 27/05/2019
 ``` sourcepawn 
-O jogador sera banido permanentemente e tera o JumpStats resetado.
+O jogador sera banido permanentemente e terá os records do JumpStats resetado.
+```
 
 ### UPDATES NO JUMPSTATS v1.7.0
 ``` sourcepawn 
@@ -28,8 +28,6 @@ Painel Central Avançado (lj info) - Ativar / Desativar
 Rastro do pulo - Ativar / Desativar
 
 SONS DO QUAKE estão PREDEFINIDOS como "Nenhum (Exceto o seu)"
-
-O Anti-cheat banira automaticamente e permanentemente!
 ```
 
 ### UPDATES NO XPMOD v1.7.5
