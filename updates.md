@@ -6,6 +6,17 @@ description: Aqui mostro o que está acontecendo com o XPMod ultimamente
 
 ### [Página inicial](https://kinzs.github.io/)<br>
 
+### UPDATE NO JUMPSTATS v1.8.4
+``` sourcepawn
+Adicionado DiscordApi, Quando o player que pegar top 5 no LJ, LJBLOCK, BHOP, D-BHOP, M-BHOP ou WJ, O canal de cada estilo de pulo recebara a mensagem que o player X pegou posicao Y no jumptop.
+Arrumado o bug no Freeway quando estava no modo funjump.
+```
+## Longjump
+![image](https://imgur.com/3NRKC51.png)
+
+## WJ
+![image](https://i.imgur.com/nL6VTlA.png)
+
 ### UPDATE Anti-Cheat 27/05/2019
 ``` sourcepawn 
 O jogador sera banido permanentemente e terá os records do JumpStats resetado.
