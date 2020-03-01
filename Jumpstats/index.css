@@ -1,5 +1,3 @@
-/*! CSS Used from: http://localhost/php/jumpstats.css */
-
 html {
     overflow: scroll;
     overflow-x: hidden;
@@ -17,8 +15,6 @@ html, body {
     line-height: 1.55;
     overflow-x: hidden;
 }
-
-/*body { background-color: hsl(261, 49%, 7%); }*/
 
 body { background-color: #000000 }
 
@@ -347,6 +343,10 @@ tr td:nth-child(2) {
 .profile:hover
 {
 	color: #826685;
+}
+
+.active {
+	color: #69630E;
 }
 
 .animate-bottom {
