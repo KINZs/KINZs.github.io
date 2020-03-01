@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+<!-- <script> -->
+     <!-- ( adsbygoogle = window.adsbygoogle || []).push( { -->
+          <!-- google_ad_client: "ca-pub-1348364283847032", -->
+          <!-- enable_page_level_ads: true -->
+     <!-- }); -->
+<!-- </script> -->
+<link rel="stylesheet" type="text/css" href="css/jumpstats.css">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
 
+<script type="text/javascript" src="js/warpspeed.js"></script>
+<link rel="shortcut icon" href="csgo-icon-6.png" type="image/x-icon">
+<title>pest'sNrun - JumpStats Top</title>
+<script type="text/javascript">
+	$( document).ready( function( ) {
+		$( '#oie').scroll( function( ) {
+			if ( $( this ).scrollTop( ) > 80 )
+			{
+				$( '#logo' ).text( 'Top JumpStats' );
+				$( '#sidebar' ).css( "top", "80px" );
+			}
+			else 
+			{
+				$( '#logo' ).text( '' );
+				$( '#sidebar' ).css( "top", "180px" );
+			}
+		});
+	});	
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+	<div style="position:fixed; z-index:0; top:0; left:0; width:100%; height:100%;">
+		<canvas id="canvas" style="width:100%; height:100%;overflow-y:hidden;"></canvas>
+		<script type="text/javascript">new WarpSpeed( "canvas", { targetSpeed:0.8, speedAdjFactor:0.07, shape:"square", backgroundColor:"hsl( 263,45%,8%)", speedWhileLoading:18 } );</script>
+	</div>
+	<div id="oie" style="position:fixed; z-index:1; top:0; left:0; width:100%; height:100%; overflow-y:scroll" >
+	<div id="nav">
+		<div class="content" >
+			<div id="logo"></div>
+			<a href="index.php">XPMOD</a>
+			<a href="#">JumpStats Top</a>
+			<a href="https://kinzs.github.io/" >Blog</a>
+			<a href="https://kinzs.github.io/updates" >CHANGELOGs</a>
+		</div>
+	</div>
+    <div id="container">
+		<h2>Top Jumpstats</h2>
+		<div id="UpdateInfo">
+            <div id="Timecode"><b>Última Atualização:</b> 13/09/2019 @ 01:44 BRT</div>
+            <!-- <div id="UpdateTime">Atualiza a cada hora</div> -->
+        </div>
+
+		<div class="pure-menu pure-menu-horizontal" style="margin-bottom: 0px;">
+			<a href="#" id="jumptype-button-lj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump</a>
+			<a href="#" id="jumptype-button-bhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">BunnyHop</a>
+			<a href="#" id="jumptype-button-mbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Multi Bhop</a>
+			<a href="#" id="jumptype-button-wj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Weirdjump</a>
+			<a href="#" id="jumptype-button-dbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Drop Bhop</a>
+			<a href="#" id="jumptype-button-ljblock" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump Block</a>
+		</div>
+		<div class="wrapper">
+			<div class="main">
+				<div id="loader"></div>
+				<div><div id="changeme"></div><p id='jumptype-bindp' style="font-family: sans-serif; font-size: 18px; font-weight: 100;"><input type="checkbox" id="jumptype-bind" style="margin-right: 7px;">Crouch bind</p></div>
+				<table id="JumpStats" class="animate-bottom"></table>
+			</div>
+		</div>
+	</div>
+	<div id="kz">Made by <a target="_blank" href="https://steamcommunity.com/id/8RUNO1/">KINZ</a></div>
+	<script type="text/javascript" src="js/biginteger.js"></script>
+	<script type="text/javascript" src="js/jumpstats.js"></script>
+</body>
+</html>
