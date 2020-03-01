@@ -1,71 +1,55 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="./index.css">
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
-<script type="text/javascript" src="./warpspeed.min.js"></script>
-<link rel="shortcut icon" href="csgo-icon-6.png" type="image/x-icon">
-<title>pest'sNrun - JumpStats Top</title>
-<script type="text/javascript">
-	$( document).ready( function( ) {
-		$( '#oie').scroll( function( ) {
-			if ( $( this ).scrollTop( ) > 80 )
-			{
-				$( '#logo' ).text( 'Top JumpStats' );
-				$( '#sidebar' ).css( "top", "80px" );
-			}
-			else 
-			{
-				$( '#logo' ).text( '' );
-				$( '#sidebar' ).css( "top", "180px" );
-			}
-		});
-	});	
-</script>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCairo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.2.5" type="text/css" media="all">
+    <script type="text/javascript" src="js/warpspeed.js"></script>
+	<script type="text/javascript" src="js/jumpstats.js"></script>
+	<script type="text/javascript" src="js/biginteger.js"></script>
+    <link rel="shortcut icon" href="csgo-icon-6.png" type="image/x-icon">
 </head>
 <body>
 	<div style="position:fixed; z-index:0; top:0; left:0; width:100%; height:100%;">
 		<canvas id="canvas" style="width:100%; height:100%;overflow-y:hidden;"></canvas>
-		<script>var x=new WarpSpeed("canvas");</script>
+		<script type="text/javascript">new WarpSpeed("canvas", { targetSpeed:0.8, speedAdjFactor:0.07, shape:"square", backgroundColor:"hsl(263,45%,8%)", speedWhileLoading:18 } );</script>
 	</div>
-	<div id="oie" style="position:fixed; z-index:1; top:0; left:0; width:100%; height:100%; overflow-y:scroll" >
-	<div id="nav">
-		<div class="content" >
-			<div id="logo"></div>
-			<a href="index.php">XPMOD</a>
-			<a href="#">JumpStats Top</a>
-			<a href="https://kinzs.github.io/" >Blog</a>
-			<a href="https://kinzs.github.io/updates" >CHANGELOGs</a>
-		</div>
-	</div>
-    <div id="container">
-		<h2>Top Jumpstats</h2>
-		<div id="UpdateInfo">
-            <div id="Timecode"><b>Última Atualização:</b> 13/09/2019 @ 01:44 BRT</div>
-            <!-- <div id="UpdateTime">Atualiza a cada hora</div> -->
+	<div id="oie" style="position:fixed; z-index:1; top:0; left:0; width:100%; height:100%; overflow-y:scroll">
+        <div id="nav">
+            <div class="content">
+                <div id="logo"></div>
+                <a href="#"></a>
+                <a href="#" class="active">JumpStats Top</a>
+                <a href="https://kinzs.github.io/blog" >Blog (Soon)</a>
+                <a href="https://kinzs.github.io/updates" >CHANGELOGs</a>
+            </div>
         </div>
-
-		<div class="pure-menu pure-menu-horizontal" style="margin-bottom: 0px;">
-			<a href="#" id="jumptype-button-lj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump</a>
-			<a href="#" id="jumptype-button-bhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">BunnyHop</a>
-			<a href="#" id="jumptype-button-mbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Multi Bhop</a>
-			<a href="#" id="jumptype-button-wj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Weirdjump</a>
-			<a href="#" id="jumptype-button-dbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Drop Bhop</a>
-			<a href="#" id="jumptype-button-ljblock" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump Block</a>
-		</div>
-		<div class="wrapper">
-			<div class="main">
-				<div id="loader"></div>
-				<div><div id="changeme"></div><p id='jumptype-bindp' style="font-family: sans-serif; font-size: 18px; font-weight: 100;"><input type="checkbox" id="jumptype-bind" style="margin-right: 7px;">Crouch bind</p></div>
-				<table id="JumpStats" class="animate-bottom"></table>
+		<title>pleaseNrun - JumpStats</title>
+		<div id="container">
+			<h2>Top JumpStats</h2>
+			<p>Oie aqui vai aparecer vai aparecer q da update a cada hora.</p>
+    
+			<div class="menu" style="margin-bottom: 0px;">
+				<a href="#" id="jumptype-button-lj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump</a>
+				<a href="#" id="jumptype-button-bhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">BunnyHop</a>
+				<a href="#" id="jumptype-button-mbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Multi Bhop</a>
+				<a href="#" id="jumptype-button-wj" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Weirdjump</a>
+				<a href="#" id="jumptype-button-dbhop" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Drop Bhop</a>
+				<a href="#" id="jumptype-button-ljblock" class="pure-menu-heading pure-menu-link" onclick="toggle(this);">Longjump Block</a>
 			</div>
+
+			<div id="loader"></div>
+			<div>
+				<p id='jumptype-bindp' style="font-family: sans-serif; font-size: 18px; font-weight: 100;">
+				<input type="checkbox" id="jumptype-bind" style="margin-right: 7px;">Crouch bind</p>
+			</div>
+			
+			<table id="JumpStats" class="animate-bottom"></table>
+			
+			<div id="kz">Made by <a target="_blank" href="https://steamcommunity.com/id/8RUNO1/">KINZ</a></div>
 		</div>
 	</div>
-	<div id="kz">Made by <a target="_blank" href="https://steamcommunity.com/id/8RUNO1/">KINZ</a></div>
-	<script type="text/javascript" src="js/biginteger.js"></script>
-	<script type="text/javascript" src="js/jumpstats.js"></script>
-</body>
+	</body>
 </html>
