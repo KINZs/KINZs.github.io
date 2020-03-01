@@ -5,8 +5,6 @@ let TableSelection = "JumpStats";
 let type;
 let crouch = "false";
 
-let menucolor = "#165221"; //"#c44d49"
-
 // Steam
 let steam64;
 let steamBigInt;
@@ -219,7 +217,6 @@ function toggle( object )
 		object.disabled = false;
 	}, 500 );
 }
-
 
 function LoadTable( ) 
 {
