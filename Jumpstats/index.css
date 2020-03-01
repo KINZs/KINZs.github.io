@@ -346,7 +346,7 @@ tr td:nth-child(2) {
 }
 
 .active {
-	color: #69630E;
+	color: #69630E !important;
 }
 
 .animate-bottom {
