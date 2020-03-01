@@ -28,6 +28,15 @@ html, body {
     margin-top: 40px;
 }
 
+.content {
+    width: 100%;
+    max-width: 70em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    position: relative;
+}
+
 #nav {
     /* background-color: hsl(263,45%,8%); */
     background-color: hsl(261, 49%, 7%);
