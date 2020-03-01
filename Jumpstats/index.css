@@ -17,14 +17,13 @@
 }
 
 #nav {
-	background: #226B30;
-    /* background-color: #c44d49; */
-    box-shadow: 0 0 1em rgba(0,0,0,0.3);
+    /* background-color: hsl(263,45%,8%); */
+    background-color: hsl(261, 49%, 7%);
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
     position: fixed;
     top: 0;
     width: 100%;
     height: 4.2em;
-    z-index: 3;
     text-align: right;
     z-index: 999;
     -webkit-touch-callout: none;
