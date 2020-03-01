@@ -81,7 +81,7 @@ h2 {
     line-height: 4.25em;
     display: inline-block;
     text-align: center;
-    color: #fff !important;
+    color: #fff;
     padding-left: 1em;
     padding-right: 1em;
     text-decoration: none !important;
