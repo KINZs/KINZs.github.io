@@ -27,3 +27,5 @@ O servidor é independente de Administradores, ou seja, quando 10 jogadores entr
   - Usando o comando .accept
 - Cansei do grupo como faço para sair?
   - Usando o comando .leavegroup
+- Pra Que server os grupos?
+  - Os jogadores que estiverem nos grupos serão balanceados juntos. 
