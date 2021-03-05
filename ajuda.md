@@ -14,23 +14,16 @@ O servidor é independente de Administradores, ou seja, quando 10 jogadores entr
 
 | Comando        | Descrição                             |
 |:-------------|:------------------|
+| .help        | Mostra todos os comandos do servidor, essa página. |
 | .ready       | Avisa o servidor que você está pronto |
 | .notready    | Avisa o servidor que o jogador não está pronto |
 
-
-| Grupos       | Descrição                             |
-|:-------------|:------------------|
-| .group <tag> | Avisa o servidor que você está pronto |
-| .notready    | Avisa o servidor que o jogador não está pronto |
-| .ready       | Avisa o servidor que você está pronto |
-| .notready    | Avisa o servidor que o jogador não está pronto |
-| .ready       | Avisa o servidor que você está pronto |
-| .notready    | Avisa o servidor que o jogador não está pronto |
-| .ready       | Avisa o servidor que você está pronto |
-| .notready    | Avisa o servidor que o jogador não está pronto |
-
-
-## Modos de jogo
-
-* ### Com Bloco
-Mapas onde são criados "spots" que utilizam blocos com diversas finalidades. Ex: Ganhar arma; recuperar vida; escorregar.<br>
+## Grupos
+- Como crio um Grupo?
+  - Usando o comando .group <tag> no chat, o grupo pode ter no máximo 3 caracteres, não podendo usar o ponto final.
+- Como adiciono alguém no meu grupo?
+  - Usando o comando .invite ou .add <nick do jogador>, Limite de 3 jogadores por grupo.
+- Fui convidado para um grupo como faço para aceitar?
+  - Usando o comando .accept
+- Cansei do grupo como faço para sair?
+  - Usando o comando .leavegroup
