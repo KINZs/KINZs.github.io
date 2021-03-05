@@ -8,7 +8,7 @@ description: Todos os comandos do PUG
 O servidor é independente de Administradores, ou seja, quando 10 jogadores entram no servidor, usam o comando via Say '.ready', começa a partida.
 <br>
 
-[Veja as regras](#regras)
+~~[Veja as regras](#regras)
 
 ### Comandos Disponíveis
 
