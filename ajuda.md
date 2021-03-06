@@ -16,7 +16,11 @@ O servidor é independente de Administradores, ou seja, quando 10 jogadores entr
 | .ready       | Avisa o servidor que você está pronto. |
 | .notready    | Avisa o servidor que o jogador não está pronto. |
 
-## Grupos
+## What is a Skill Level?
+Each Skill Level is linked to an Elo interval. The players belonging to the same skill level are meant to have comparable skills and knowledge of the game.  In order to move to the next skill level, your Elo should be greater than the upper limit of the given interval.
+The Skill Level is game specific. The skill level begins at rank ❶ through to rank ❿.
+
+## Grupos (DESATIVADO)
 - Como crio um Grupo?
   - Usando o comando `.group <tag>` no chat, o grupo pode ter no máximo 3 caracteres, não podendo usar o ponto final.
 - Como adiciono alguém no meu grupo?
